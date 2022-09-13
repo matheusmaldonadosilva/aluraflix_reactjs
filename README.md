@@ -4,8 +4,6 @@ Aluraflix
 
 Esse projeto foi desenvolvido em React.js.
 
-💻 Projeto O Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem professores online.
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
