@@ -2,7 +2,7 @@ Aluraflix
 
 ![aluraflix](https://user-images.githubusercontent.com/47877623/189803177-e055804b-7c83-4dc7-8c8c-ff6f70c1dc8b.png)
 
-Esse projeto foi desenvolvido em React.js.
+This project was developed in React.js.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
